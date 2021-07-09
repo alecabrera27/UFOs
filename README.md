@@ -7,3 +7,8 @@ The webpage will have the dynamic table allowing users to filter for multiple cr
 ## Results
 
 ## Summary
+
+For further improvement we could add to the table links to webpages for more information of the sightings and more information that can be filtered, like the city, state or country with the most UFO’s sightings, what shape has being sighted the most and where. 
+Could the place be attracting a specific shape?  
+With filters on the quantities we could make a more in depth analysis.
+
